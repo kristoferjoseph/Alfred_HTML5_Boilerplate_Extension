@@ -20,5 +20,10 @@ It will open your new project in Sublime Text 2 if you have it installed.
 
 __*The first time you run this extension it could take a little longer than expected since it will attempt to clone the html5 boilerplate project to a Templates directory in your Documents. Subsequent runs of this extention will be almost instantaneous__
 
-Example:
+## Example:
 ![Usage](https://raw.github.com/kristoferjoseph/Alfred_HTML5_Boilerplate_Extension/master/img/html5_boilerplate_usage.png)
+
+## Requirements
+[Alfred](http://www.alfredapp.com/) *obviously
+[git](http://git-scm.com/)
+[SublimeText 2](http://www.sublimetext.com/)
