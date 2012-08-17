@@ -1,5 +1,5 @@
 # Alfred HTML5 Boilerplate extension
-Alfred Extension for generating a new HTML5 Boilerplate template project
+Alfred Extension for generating a new [HTML5 Boilerplate](http://html5boilerplate.com/) template project
 
 ## Install
 Launch Alfred
